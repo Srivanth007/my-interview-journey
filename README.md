@@ -13,7 +13,7 @@ Here is a breakdown of the Object-Oriented Programming (OOP) fundamentals I've m
 5. **Polymorphism:** Allowing different classes to respond uniquely to the same command (The "Speak" command for animals).
 
 ## 🛠️ Tech Stack Used
-* Language: Python (or change this to Java/C++ depending on what you used!)
+* Language: Python
 
 ---
 *“An investment in knowledge pays the best interest.” – Progressing every day!*
